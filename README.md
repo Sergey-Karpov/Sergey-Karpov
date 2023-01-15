@@ -1,4 +1,4 @@
-### My stack 👋
-<img src="https://img.shields.io/badge/JavaScript-4a4848?style=for-the-badge&logo=JavaScript&logoColor=pink"/> <img src="https://img.shields.io/badge/HTML-4a4848?style=for-the-badge&logo=HTML5&logoColor=pink"/>
+### My stack 👋 👀 🎻 🚀
+<img src="https://img.shields.io/badge/JavaScript-4a4848?style=for-the-badge&logo=JavaScript&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/HTML-4a4848?style=for-the-badge&logo=HTML5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS3-4a4848?style=for-the-badge&logo=CSS3&logoColor=blue"/> <img src="https://img.shields.io/badge/Bootstrap-4a4848?style=for-the-badge&logo=Bootstrap&logoColor=f097e7"/> <img src="https://img.shields.io/badge/jQuery-4a4848?style=for-the-badge&logo=jQuery&logoColor=69a1f5"/> <img src="https://img.shields.io/badge/Git-4a4848?style=for-the-badge&logo=Git&logoColor=fa9357"/> <img src="https://img.shields.io/badge/GitHub-4a4848?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-4a4848?style=for-the-badge&logo=GitLab&logoColor=orangered"/> <img src="https://img.shields.io/badge/Adobe Photoshop-4a4848?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-4a4848?style=for-the-badge&logo=Figma&logoColor=57dcfa"/>
 
 
